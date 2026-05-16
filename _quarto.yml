@@ -19,9 +19,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/fpsim/fpsim
+            href:  https://github.com/starsimhub/fpsim
           - text: Report a Bug
-            href:  https://github.com/fpsim/fpsim/issues
+            href:  https://github.com/starsimhub/fpsim/issues
   page-footer:
     left: |
       [Privacy and Cookies Notice](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice) |
@@ -30,7 +30,7 @@ website:
       © 2022–2026, Gates Foundation. All rights reserved.
     right:
       - icon: github
-        href: https://github.com/fpsim/fpsim
+        href: https://github.com/starsimhub/fpsim
         aria-label: GitHub
       - icon: envelope-at-fill
         href: mailto:info@fpsim.org
