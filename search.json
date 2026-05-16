@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Family Planning Simulator (FPsim)",
+    "section": "",
+    "text": "FPsim is a data-driven, stochastic agent-based model of family planning, written in pure Python. It explicitly models individual heterogeneity in biology and contraceptive behavior across the female life course, allowing researchers to study how reproductive decisions accumulate over time and translate into population-level demographic outcomes. FPsim supports country-specific calibration, flexible contraceptive-choice modules, scenario analysis, and the evaluation of new methods and interventions. The model is open-source, MIT-licensed, pip-installable, and runs on a laptop.\n\n\n\n\n   Docs  \n\n\n   Tutorials  \n\n\n   Code  \n\n\n   Paper"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Family Planning Simulator (FPsim)",
+    "section": "",
+    "text": "FPsim is a data-driven, stochastic agent-based model of family planning, written in pure Python. It explicitly models individual heterogeneity in biology and contraceptive behavior across the female life course, allowing researchers to study how reproductive decisions accumulate over time and translate into population-level demographic outcomes. FPsim supports country-specific calibration, flexible contraceptive-choice modules, scenario analysis, and the evaluation of new methods and interventions. The model is open-source, MIT-licensed, pip-installable, and runs on a laptop.\n\n\n\n\n   Docs  \n\n\n   Tutorials  \n\n\n   Code  \n\n\n   Paper"
+  },
+  {
+    "objectID": "index.html#fpsim-versions",
+    "href": "index.html#fpsim-versions",
+    "title": "Family Planning Simulator (FPsim)",
+    "section": "FPsim versions",
+    "text": "FPsim versions\nFPsim was developed at the Institute for Disease Modeling beginning in 2021 and released as a standalone open-source package in 2022. Version 1.0 was published to PyPI in June 2024. Version 2.0 (March 2025) introduced a major overhaul of contraceptive-choice modeling, including method-specific duration tracking, ContraceptiveChoice modules, education modules, and new attributes for fertility intent and wealth quintile. Version 3.0 (June 2025) rebuilt FPsim on the Starsim modeling architecture."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Family Planning Simulator (FPsim)",
+    "section": "Publications",
+    "text": "Publications\nThe scientific paper describing FPsim was published in 2023 in npj Women’s Health. The recommended citation is:\n\nFPsim: an agent-based model of family planning (2023). O’Brien ML, Valente A, Kerr CC, Proctor JL, Noori N, Root ED, Olsen H, Buxton S, Chabot-Couture G, Klein DJ, Zimmermann M. npj Women’s Health, 1, 1. https://doi.org/10.1038/s44294-023-00001-z\n\nAdditional papers describing extensions of FPsim include:\n\nFPsim+: An Agent Based Model of Contraceptive Use and Empowerment (2024). Zimmermann M, Sanz-Leon P, Stuart R, Driano E, O’Brien M. VeriXiv. https://doi.org/10.12688/verixiv.39.1"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Family Planning Simulator (FPsim)",
+    "section": "Contact",
+    "text": "Contact\nIf you have questions or would like to collaborate, please get in touch!\nEmail Us"
+  }
+]
