@@ -11,7 +11,7 @@ resources:
   - CNAME
 
 website:
-  title: "HPVsim"
+  title: "FPsim"
   navbar:
     logo: starsim-logo-dark.png
     search: true
@@ -19,23 +19,23 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/starsimhub/hpvsim
+            href:  https://github.com/fpsim/fpsim
           - text: Report a Bug
-            href:  https://github.com/starsimhub/hpvsim/issues
+            href:  https://github.com/fpsim/fpsim/issues
   page-footer:
     left: |
       [Privacy and Cookies Notice](https://www.gatesfoundation.org/Privacy-and-Cookies-Notice) |
       [Terms of Use](https://www.gatesfoundation.org/Terms-of-Use)
     center: |
-      © 2022–2025, Gates Foundation. All rights reserved.
+      © 2022–2026, Gates Foundation. All rights reserved.
     right:
       - icon: github
-        href: https://github.com/starsimhub/hpvsim
+        href: https://github.com/fpsim/fpsim
         aria-label: GitHub
       - icon: envelope-at-fill
-        href: mailto:info@hpvsim.org
+        href: mailto:info@fpsim.org
       - icon: globe
-        href: https://hpvsim.org/
+        href: https://fpsim.org/
 
 execute:
   freeze: auto
